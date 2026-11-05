@@ -12,7 +12,7 @@ A machine learning project that predicts which telecom customers are likely to l
 * [Repository Structure](#repository-structure)
 * [How to Run](#how-to-run)
 * [Tools Used](#tools-used)
-* [Author](#author)
+
 
 ## Business Problem
 
@@ -128,9 +128,3 @@ The notebook loads the dataset directly from this repository, so it needs an int
 * **Modelling:** scikit-learn, XGBoost, LightGBM
 * **Environment:** Jupyter Notebook
 
-## Author
-
-**Glen Washington Ochieng**
-Data Analyst | MSc Data Science (ongoing)
-
-[LinkedIn](https://linkedin.com/in/glenochieng-55b559254) | ochiengglenwashington@gmail.com
